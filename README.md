@@ -4,7 +4,7 @@
 ![Carga horária](https://img.shields.io/badge/Carga_hor%C3%A1ria-40_horas-1F6FEB?style=flat-square)
 ![Área](https://img.shields.io/badge/Área-Inteligência_Artificial-6F42C1?style=flat-square)
 
-Repositório dedicado aos conteúdos, anotações e atividades desenvolvidas durante o curso **Programação com Inteligência Artificial Generativa**, oferecido pelo **SENAI Jandira**, com carga horária de **8 horas**.
+Repositório dedicado aos conteúdos, anotações e atividades desenvolvidas durante o curso **Programação com Inteligência Artificial Generativa**, oferecido pelo **SENAI Hermenegildo Campos de Almeida**, com carga horária de **8 horas**.
 
 ## Sobre o curso
 
